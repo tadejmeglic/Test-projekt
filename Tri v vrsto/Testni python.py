@@ -1,0 +1,3 @@
+# nekaj za programirat
+
+.......
